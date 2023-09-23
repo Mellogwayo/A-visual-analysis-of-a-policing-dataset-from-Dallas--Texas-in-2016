@@ -20,7 +20,6 @@ The analysis may require the following R packages. You can install them using th
 ```R
 install.packages("ggplot2")
 install.packages("dplyr")
-# Add any additional package installation commands as needed
 ```
 
 ## Contributing
